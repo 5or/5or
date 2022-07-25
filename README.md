@@ -13,15 +13,10 @@ func github() {
 
 }
 ```
-
-<details open><summary>interested (in order):</summary>
-
-```
-Go (currently learning)
-JS 
-Rust
-C
-CPP
-```
-</details>
- 
+>Interested<br>
+>------------<br>
+>Go (currently learning)<br>
+>JS<br>
+>C<br>
+>Rust<br>
+>C++<br>
